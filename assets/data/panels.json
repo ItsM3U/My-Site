@@ -1,0 +1,70 @@
+{
+  "about": {
+    "content": "Hello there, I'm <strong>M3U</strong>. I'm a <strong>programmer</strong> and <strong>game developer/designer</strong>. I've been programming since I was <strong>12</strong>.</br></br>I've worked with <strong>C</strong>, <strong>C++</strong>, <strong>C#</strong>, <strong>Java</strong>, <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>Lua</strong>. I've used <strong>SFML</strong>, <strong>SDL2</strong>, <strong>OpenGL</strong>, <strong>Unity</strong>, <strong>Godot</strong>, <strong>ImGui</strong>, <strong>Pygame</strong>, <strong>NumPy</strong>, <strong>matplotlib</strong>, <strong>TensorFlor</strong> and <strong>Keras</strong>.</br></br>I do all of this for <strong>fun</strong>."
+  },
+  "projects": {
+    "content": [
+      {
+        "name": "Za Mig",
+        "description": "A fast-paced, action sci-fi game. Made in 48 hours for EğitiJam.",
+        "link": "https://itsm3u.itch.io/za-mig"
+      },
+      {
+        "name": "Java Game Framework",
+        "description": "A simple Java framework for 2D games.",
+        "link": "https://github.com/ItsM3U/Java-Game-Framework"
+      },
+      {
+        "name": "SFML Raycaster",
+        "description": "A C++ SFML project that simulates classic raycasting like Wolfenstein 3D.",
+        "link": "https://github.com/ItsM3U/SFML-Raycaster"
+      },
+      {
+        "name": "SDL2 Framework",
+        "description": "Simple C framework for 2D games, made using SDL2.",
+        "link": "https://github.com/ItsM3U/SDL2-Game-Framework"
+      },
+      {
+        "name": "Island Generation",
+        "description": "Procedural island generation using Perlin noise in Pygame.",
+        "link": "https://github.com/ItsM3U/Island-Generation"
+      }
+    ]
+  },
+  "logs": {
+    "content": [
+      {
+        "date": "[03/06/2025]",
+        "description": "Website published!"
+      },
+      {
+        "date": "[30/06/2025]",
+        "description": "Website refreshed!"
+      }
+    ]
+  },
+  "vault": {
+    "content": [
+      {
+        "name": "[VAULT]",
+        "description": "Just started working on the development of Beat'em Up."
+      },
+      {
+        "name": "[VAULT]",
+        "description": "Cool Website: ",
+        "link": {
+          "url": "https://www.itsm3u.com",
+          "label": "Visit"
+        }
+      },
+      {
+        "name": "[VAULT]",
+        "description": "This is a vault message."
+      },
+      {
+        "name": "[VAULT]",
+        "description": "How cool is this website?"
+      }
+    ]
+  }
+}
